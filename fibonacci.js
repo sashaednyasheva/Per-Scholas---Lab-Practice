@@ -1,3 +1,6 @@
+//The Fibonacci sequence is the integer sequence where the first two terms are 0 and 1. 
+//After that, the next term is defined as the sum of the previous two terms.
+
 let num1 = 0;
 let num2 = 1;
 let sum = 0
